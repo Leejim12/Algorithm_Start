@@ -1,1 +1,1 @@
-# PNU_Algorithm
+# Algorithm
